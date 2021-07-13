@@ -60,7 +60,6 @@ This package can detect the following CI/CD/PaaS providers:
 - Solano CI
 - Strider CD
 - TaskCluster
-- TaskCluster
 - TeamCity
 - Travis CI
 - Vercel
