@@ -1,4 +1,4 @@
-package main
+package ci
 
 // Vendor describes a CI/CD vendor execution environment
 type Vendor struct {
