@@ -1,5 +1,5 @@
 // A simple utilty to check if a program is being executed in common CI/CD/PaaS vendors. This is a partial port of https://github.com/watson/ci-info
-package main
+package ci
 
 import "os"
 

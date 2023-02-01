@@ -14,7 +14,7 @@ go get github.com/jaredpalmer/ci-info
 ```go
 package main
 
-import ci "github.com/jaredpalmer/ci-info"
+import "github.com/jaredpalmer/ci-info"
 
 func main() {
   fmt.Println(ci.IsCi()) // true or false 
